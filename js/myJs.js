@@ -9,8 +9,7 @@ const textConfig = {
   text8: "cậu sẽ hết bùn phải hong",
   text9: "tớ bớt buồn rồi",
   text10: "Bạn un của tớ sớm hết buồn và phải luôn cười nhaaaaaa",
-  text11:
-    "tớ thật sự rất rất yêu cậu, đối với tớ cậu là động lực để tớ cố gắng!",
+  text11: "tớ thật sự rất rất yêu cậu, đối với tớ cậu là động lực để tớ cố gắng!",
   text12: "uci",
 };
 
