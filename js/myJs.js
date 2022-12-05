@@ -113,7 +113,7 @@ $(document).ready(function () {
       html: true,
       width: 900,
       padding: "3em",
-      html: "<input type='text' class='form-control' id='txtReason'  placeholder='Whyyy'>",
+      html: "<input type='text' class='form-control' id='txtReason'  placeholder='Ước iiiiii'>",
       background: '#fff url("img/2.jpg")',
       backdrop: `
                     rgba(0,0,123,0.4)
