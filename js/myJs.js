@@ -8,8 +8,8 @@ const textConfig = {
   text7: "Điền vào đây điều ước của cậu đi",
   text8: "Điều ước của cậu sẽ thành hiện thực",
   text9: "tớ muốn bao bạn Uyên đi ăn",
-  text10: "Bạn un của tớ sớm hết buồn và phải luôn cười nhaaaaaa",
-  text11: "tớ thật sự rất rất yêu cậu, đối với tớ cậu là động lực để tớ cố gắng!",
+  text10: "Here's the year of our silly shenanigans!",
+  text11: " Happi birthdei 2 ma crazi bitch",
   text12: "uci",
 };
 
@@ -132,7 +132,7 @@ $(document).ready(function () {
         Swal.fire({
           width: 900,
           confirmButtonText: textConfig.text12,
-          background: '#fff url("img/2")',
+          background: '#fff url("img/iput-bg.jpg")',
           title: textConfig.text10,
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
